@@ -1,0 +1,6 @@
+cambiar el http.conf de C:\AppServ\Apache24\conf\httpd.conf
+
+AllowOverride (none -> All)
+reiniciar servicio apache
+mod_rewrite - si no funciona
+
